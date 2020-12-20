@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "182606882980",
+    "firebase_url": "https://uwechat-a35e3.firebaseio.com",
+    "project_id": "uwechat-a35e3",
+    "storage_bucket": "uwechat-a35e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182606882980:android:9699cf3a16cdaa6c",
+        "android_client_info": {
+          "package_name": "com.niipo.uwechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182606882980-h21q9kg6tb5kjbi5r22us7becfq15b9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqtKw5Ggxu5j_6Au-mOPY1yLBc-CLAbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UweChat</string>
+    <string name="title_home">Home</string>
+    <string name="people">People</string>
+    <string name="my_account">My Account</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+</resources>
